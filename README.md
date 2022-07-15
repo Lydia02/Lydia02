@@ -4,6 +4,7 @@ Username @Lydia02
 - 🌱 I’m currently learning new skills
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me 
+
 LinkedIn: https://www.linkedin.com/in/lydia-ojoawo/
 
 Twitter: https://twitter.com/shubby_boo
