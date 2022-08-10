@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Lydia Ojoawo 
 Username @Lydia02
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning new skills
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I’m currently learning backend engineering at [AltSchool Africa ](https://www.altschoolafrica.com/). I'm passionate about sharing knowledge, and documentation.
+- 💞️ I’m looking to collaborate on open source projects.
+- Job interests: Backend Engineer(Intern or Junior level).
 - 📫 How to reach me 
 
 LinkedIn: https://www.linkedin.com/in/lydia-ojoawo/
