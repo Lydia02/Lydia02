@@ -8,8 +8,6 @@ Username @Lydia02
 
 LinkedIn: https://www.linkedin.com/in/lydia-ojoawo/
 
-Twitter: https://twitter.com/shubby_boo
-
 Instagram: https://www.instagram.com/shubby__boo
 
 Website: https://lydiaojoawo.netlify.app/
